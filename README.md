@@ -3,12 +3,7 @@
        width="100%"
        alt="Varun Kumar - IC Design Portfolio">
 </p>
-
 <br>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=RTL+Design+%7C+Verilog;RISC-V+Processor+Development;ASIC+Physical+Design+Enthusiast;Analog+%26+Mixed+Signal+IC+Design"
-  alt="Typing SVG" />
-</p>
 <hr>
 <h2 align="center">👨‍💻 About Me</h2>
 
