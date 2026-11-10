@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Varun</h1>
+<p align="center">
+  <img src="varun_banner.png"
+       width="100%"
+       alt="Varun Kumar - IC Design Portfolio">
+</p>
 
-<h3 align="center">
-  Master's Student | Microelectronics | Digital IC Design
-</h3>
-
+<br>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=RTL+Design+%7C+Verilog;RISC-V+Processor+Development;ASIC+Physical+Design+Enthusiast;Analog+%26+Mixed+Signal+IC+Design"
   alt="Typing SVG" />
